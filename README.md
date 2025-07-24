@@ -2,7 +2,7 @@
 - 👀 I’m eager to grow my knowledge on different computer languages.
 - 🌱 I’m currently learning Java.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play volleyball (looking for a club).
+- ⚡ Fun fact: I play volleyball.
 
 <!---
 JP3783/JP3783 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
