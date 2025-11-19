@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JP3783
 - 👀 I’m eager to grow my knowledge on different computer languages and learn all the systems in the computer science world.
-- 🌱 I’m currently working on sensors and actuators - haptic technology.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play volleyball.
 
